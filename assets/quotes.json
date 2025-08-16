@@ -1,0 +1,1004 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "You're not tired. You're uninspired. Find your fire and watch fatigue disappear.",
+      "category": "mindset"
+    },
+    {
+      "id": 2,
+      "text": "Money follows value. Create something undeniable and wealth becomes inevitable.",
+      "category": "money"
+    },
+    {
+      "id": 3,
+      "text": "The gym is your proving ground. If you can't push through pain there, you'll fold everywhere else.",
+      "category": "strength"
+    },
+    {
+      "id": 4,
+      "text": "Your competition is training right now. What's your excuse?",
+      "category": "discipline"
+    },
+    {
+      "id": 5,
+      "text": "Success is rented, not owned. The rent is due every single day.",
+      "category": "success"
+    },
+    {
+      "id": 6,
+      "text": "Winners focus on winning. Losers focus on winners. Stay in your lane.",
+      "category": "mindset"
+    },
+    {
+      "id": 7,
+      "text": "Discipline is doing what you hate like you love it. Master this and you're unstoppable.",
+      "category": "discipline"
+    },
+    {
+      "id": 8,
+      "text": "Your bank account reflects your skill set. Level up or stay broke.",
+      "category": "money"
+    },
+    {
+      "id": 9,
+      "text": "Pain is temporary. Quitting lasts forever. Choose wisely.",
+      "category": "strength"
+    },
+    {
+      "id": 10,
+      "text": "Average is crowded. Excellence is lonely. Get comfortable being uncomfortable.",
+      "category": "success"
+    },
+    {
+      "id": 11,
+      "text": "Your morning routine determines your entire day. Win the AM, win your life.",
+      "category": "discipline"
+    },
+    {
+      "id": 12,
+      "text": "Weak men create hard times. Be the strong man who creates good times.",
+      "category": "strength"
+    },
+    {
+      "id": 13,
+      "text": "Stop negotiating with your weakness. Your future self is counting on you.",
+      "category": "mindset"
+    },
+    {
+      "id": 14,
+      "text": "Income follows impact. Stop chasing money, start solving problems.",
+      "category": "money"
+    },
+    {
+      "id": 15,
+      "text": "The grind never stops because mediocrity never sleeps.",
+      "category": "success"
+    },
+    {
+      "id": 16,
+      "text": "Your physique is your business card. What message are you sending?",
+      "category": "strength"
+    },
+    {
+      "id": 17,
+      "text": "Comfort is the enemy of progress. Seek resistance, find growth.",
+      "category": "mindset"
+    },
+    {
+      "id": 18,
+      "text": "Discipline beats motivation every time. Motivation is a feeling. Discipline is a commitment.",
+      "category": "discipline"
+    },
+    {
+      "id": 19,
+      "text": "Poor people have TVs. Rich people have libraries. Choose your investment.",
+      "category": "money"
+    },
+    {
+      "id": 20,
+      "text": "Success demands sacrifice. If it was easy, everyone would be winning.",
+      "category": "success"
+    },
+    {
+      "id": 21,
+      "text": "Your body is your temple. Treat it like a million-dollar asset.",
+      "category": "strength"
+    },
+    {
+      "id": 22,
+      "text": "Excuses are for people who don't want it bad enough. How bad do you want it?",
+      "category": "mindset"
+    },
+    {
+      "id": 23,
+      "text": "Money is a tool. Master it or it will master you.",
+      "category": "money"
+    },
+    {
+      "id": 24,
+      "text": "Champions are built in the dark. Keep grinding when nobody's watching.",
+      "category": "discipline"
+    },
+    {
+      "id": 25,
+      "text": "Your network determines your net worth. Level up your circle.",
+      "category": "success"
+    },
+    {
+      "id": 26,
+      "text": "Iron sharpens iron. Surround yourself with killers, not quitters.",
+      "category": "strength"
+    },
+    {
+      "id": 27,
+      "text": "Failure is data. Success is the application of that data. Keep failing forward.",
+      "category": "mindset"
+    },
+    {
+      "id": 28,
+      "text": "Time is your most valuable currency. Invest it or waste it. There's no middle ground.",
+      "category": "discipline"
+    },
+    {
+      "id": 29,
+      "text": "Generational wealth starts with generational work ethic. Plant the seeds now.",
+      "category": "money"
+    },
+    {
+      "id": 30,
+      "text": "Be the man your future family needs you to become. Start building today.",
+      "category": "success"
+    },
+    {
+      "id": 31,
+      "text": "Your mindset is your greatest weapon. Keep it sharp, keep it deadly.",
+      "category": "mindset"
+    },
+    {
+      "id": 32,
+      "text": "Every rep counts. Every set matters. Build your legacy one workout at a time.",
+      "category": "strength"
+    },
+    {
+      "id": 33,
+      "text": "Money doesn't sleep. Neither should your hustle.",
+      "category": "money"
+    },
+    {
+      "id": 34,
+      "text": "The 5 AM club builds empires. The 10 AM club builds excuses.",
+      "category": "discipline"
+    },
+    {
+      "id": 35,
+      "text": "Success is a lonely road. That's why the view from the top is so exclusive.",
+      "category": "success"
+    },
+    {
+      "id": 36,
+      "text": "Doubt kills more dreams than failure ever will. Believe or leave.",
+      "category": "mindset"
+    },
+    {
+      "id": 37,
+      "text": "Your body keeps score. Every workout is a deposit in your health account.",
+      "category": "strength"
+    },
+    {
+      "id": 38,
+      "text": "Passive income is the goal. Active grinding is the path.",
+      "category": "money"
+    },
+    {
+      "id": 39,
+      "text": "Consistency is your superpower. Show up when you don't feel like it.",
+      "category": "discipline"
+    },
+    {
+      "id": 40,
+      "text": "Winners plan their work and work their plan. What's your blueprint?",
+      "category": "success"
+    },
+    {
+      "id": 41,
+      "text": "Mental toughness is a muscle. Train it or remain weak.",
+      "category": "mindset"
+    },
+    {
+      "id": 42,
+      "text": "Heavy weights build strong men. Heavy struggles build stronger characters.",
+      "category": "strength"
+    },
+    {
+      "id": 43,
+      "text": "Invest in assets, not liabilities. Your future depends on knowing the difference.",
+      "category": "money"
+    },
+    {
+      "id": 44,
+      "text": "The pain of discipline weighs ounces. The pain of regret weighs tons.",
+      "category": "discipline"
+    },
+    {
+      "id": 45,
+      "text": "Success leaves clues. Study the greats, then surpass them.",
+      "category": "success"
+    },
+    {
+      "id": 46,
+      "text": "Your thoughts become your reality. Think like a champion.",
+      "category": "mindset"
+    },
+    {
+      "id": 47,
+      "text": "Muscles are earned, not given. Put in the work or stay weak.",
+      "category": "strength"
+    },
+    {
+      "id": 48,
+      "text": "Financial freedom starts with financial discipline. Budget like your life depends on it.",
+      "category": "money"
+    },
+    {
+      "id": 49,
+      "text": "Tomorrow's victory is today's preparation. What are you preparing for?",
+      "category": "discipline"
+    },
+    {
+      "id": 50,
+      "text": "Be so good they can't ignore you. Excellence speaks louder than words.",
+      "category": "success"
+    },
+    {
+      "id": 51,
+      "text": "Fear is a liar. Action is the truth. Move forward despite the fear.",
+      "category": "mindset"
+    },
+    {
+      "id": 52,
+      "text": "The barbell doesn't care about your feelings. Neither does life. Get stronger.",
+      "category": "strength"
+    },
+    {
+      "id": 53,
+      "text": "Multiple streams of income create unstoppable momentum. Diversify or die broke.",
+      "category": "money"
+    },
+    {
+      "id": 54,
+      "text": "Discipline is the bridge between goals and accomplishment. Build it strong.",
+      "category": "discipline"
+    },
+    {
+      "id": 55,
+      "text": "Success is not an accident. It's a choice made daily.",
+      "category": "success"
+    },
+    {
+      "id": 56,
+      "text": "Your mind is a battlefield. Win there first, win everywhere else.",
+      "category": "mindset"
+    },
+    {
+      "id": 57,
+      "text": "Progressive overload in the gym, progressive overload in life. Always add more weight.",
+      "category": "strength"
+    },
+    {
+      "id": 58,
+      "text": "Save like a pessimist, invest like an optimist, spend like a minimalist.",
+      "category": "money"
+    },
+    {
+      "id": 59,
+      "text": "The disciplined man is the free man. Chaos comes from lack of structure.",
+      "category": "discipline"
+    },
+    {
+      "id": 60,
+      "text": "Your success intimidates the average. Let them watch from below.",
+      "category": "success"
+    },
+    {
+      "id": 61,
+      "text": "Negative thoughts are mental poison. Detox your mind daily.",
+      "category": "mindset"
+    },
+    {
+      "id": 62,
+      "text": "Train like your life depends on it. One day, it might.",
+      "category": "strength"
+    },
+    {
+      "id": 63,
+      "text": "Compound interest is the 8th wonder. Start investing yesterday.",
+      "category": "money"
+    },
+    {
+      "id": 64,
+      "text": "Habits make or break you. Choose them wisely.",
+      "category": "discipline"
+    },
+    {
+      "id": 65,
+      "text": "Success is a process, not an event. Trust the journey.",
+      "category": "success"
+    },
+    {
+      "id": 66,
+      "text": "Control your mind or it will control you. There's no neutral.",
+      "category": "mindset"
+    },
+    {
+      "id": 67,
+      "text": "Strength isn't given. It's forged through resistance.",
+      "category": "strength"
+    },
+    {
+      "id": 68,
+      "text": "Rich people acquire assets. Poor people acquire expenses.",
+      "category": "money"
+    },
+    {
+      "id": 69,
+      "text": "Self-discipline is self-love. Prove you care about your future.",
+      "category": "discipline"
+    },
+    {
+      "id": 70,
+      "text": "Winners win because they're willing to do what losers won't.",
+      "category": "success"
+    },
+    {
+      "id": 71,
+      "text": "Your mindset today creates your reality tomorrow. Think bigger.",
+      "category": "mindset"
+    },
+    {
+      "id": 72,
+      "text": "Every workout is a battle. Win enough battles, win the war.",
+      "category": "strength"
+    },
+    {
+      "id": 73,
+      "text": "Money is attracted to speed. Execute fast or stay broke.",
+      "category": "money"
+    },
+    {
+      "id": 74,
+      "text": "Discipline is choosing between what you want now and what you want most.",
+      "category": "discipline"
+    },
+    {
+      "id": 75,
+      "text": "Success is the sum of small efforts repeated daily.",
+      "category": "success"
+    },
+    {
+      "id": 76,
+      "text": "Weak minds create weak results. Strengthen your mental game.",
+      "category": "mindset"
+    },
+    {
+      "id": 77,
+      "text": "Your body is your first business. Invest in it accordingly.",
+      "category": "strength"
+    },
+    {
+      "id": 78,
+      "text": "Financial literacy is the foundation. Build on solid ground.",
+      "category": "money"
+    },
+    {
+      "id": 79,
+      "text": "The secret to success? Do the work when you don't feel like it.",
+      "category": "discipline"
+    },
+    {
+      "id": 80,
+      "text": "Overnight success takes years. Keep grinding in silence.",
+      "category": "success"
+    },
+    {
+      "id": 81,
+      "text": "Program your mind for success or be programmed for failure.",
+      "category": "mindset"
+    },
+    {
+      "id": 82,
+      "text": "Physical strength builds mental strength. Iron therapy works.",
+      "category": "strength"
+    },
+    {
+      "id": 83,
+      "text": "Make money while you sleep or work until you die. Choose wisely.",
+      "category": "money"
+    },
+    {
+      "id": 84,
+      "text": "Motivation gets you started. Discipline keeps you going.",
+      "category": "discipline"
+    },
+    {
+      "id": 85,
+      "text": "Success is earned in the shadows. Shine when it's time.",
+      "category": "success"
+    },
+    {
+      "id": 86,
+      "text": "Your mind believes what you tell it. Feed it power, not poison.",
+      "category": "mindset"
+    },
+    {
+      "id": 87,
+      "text": "The weight room doesn't lie. You're either strong or you're not.",
+      "category": "strength"
+    },
+    {
+      "id": 88,
+      "text": "Poor people work for money. Rich people make money work for them.",
+      "category": "money"
+    },
+    {
+      "id": 89,
+      "text": "Discipline equals freedom. Structure creates success.",
+      "category": "discipline"
+    },
+    {
+      "id": 90,
+      "text": "Success requires sacrifice. What are you willing to give up?",
+      "category": "success"
+    },
+    {
+      "id": 91,
+      "text": "Master your emotions or they'll master you. Stay stoic.",
+      "category": "mindset"
+    },
+    {
+      "id": 92,
+      "text": "Build muscle, build character. Both require consistent tension.",
+      "category": "strength"
+    },
+    {
+      "id": 93,
+      "text": "Wealth is a mindset before it's a bank balance. Think rich.",
+      "category": "money"
+    },
+    {
+      "id": 94,
+      "text": "The price of discipline is always less than the cost of regret.",
+      "category": "discipline"
+    },
+    {
+      "id": 95,
+      "text": "Success is a decision, not a desire. Commit fully.",
+      "category": "success"
+    },
+    {
+      "id": 96,
+      "text": "Your biggest enemy lives between your ears. Defeat him daily.",
+      "category": "mindset"
+    },
+    {
+      "id": 97,
+      "text": "Strength is a choice. Choose to be powerful.",
+      "category": "strength"
+    },
+    {
+      "id": 98,
+      "text": "Money loves clarity. Get specific about your financial goals.",
+      "category": "money"
+    },
+    {
+      "id": 99,
+      "text": "Delayed gratification is the ultimate discipline. Master it.",
+      "category": "discipline"
+    },
+    {
+      "id": 100,
+      "text": "Success is not for the weak. Toughen up or tap out.",
+      "category": "success"
+    },
+    {
+      "id": 101,
+      "text": "Think like a warrior, train like an athlete, work like you're broke.",
+      "category": "mindset"
+    },
+    {
+      "id": 102,
+      "text": "The gym teaches you about life. Push, pull, and never give up.",
+      "category": "strength"
+    },
+    {
+      "id": 103,
+      "text": "Every dollar saved is a soldier in your financial army. Build your troops.",
+      "category": "money"
+    },
+    {
+      "id": 104,
+      "text": "Wake up with purpose or don't wake up at all. Time is precious.",
+      "category": "discipline"
+    },
+    {
+      "id": 105,
+      "text": "Success is predictable. Follow the formula, get the results.",
+      "category": "success"
+    },
+    {
+      "id": 106,
+      "text": "Mindset is everything. Fix your mind, fix your life.",
+      "category": "mindset"
+    },
+    {
+      "id": 107,
+      "text": "Lift heavy, live easy. The iron never lies.",
+      "category": "strength"
+    },
+    {
+      "id": 108,
+      "text": "Broke is temporary. Poor is a mindset. Choose abundance.",
+      "category": "money"
+    },
+    {
+      "id": 109,
+      "text": "The disciplined mind achieves the impossible. Train it daily.",
+      "category": "discipline"
+    },
+    {
+      "id": 110,
+      "text": "Success is a marathon, not a sprint. Pace yourself for greatness.",
+      "category": "success"
+    },
+    {
+      "id": 111,
+      "text": "Victim mentality creates victim reality. Take ownership.",
+      "category": "mindset"
+    },
+    {
+      "id": 112,
+      "text": "Strong body, strong mind, strong life. It all connects.",
+      "category": "strength"
+    },
+    {
+      "id": 113,
+      "text": "Financial independence is the ultimate freedom. Work for it.",
+      "category": "money"
+    },
+    {
+      "id": 114,
+      "text": "Discipline is the foundation of all achievement. Build it solid.",
+      "category": "discipline"
+    },
+    {
+      "id": 115,
+      "text": "Success loves preparation. Stay ready so you don't have to get ready.",
+      "category": "success"
+    },
+    {
+      "id": 116,
+      "text": "Your mindset is your limit. Expand it or stay small.",
+      "category": "mindset"
+    },
+    {
+      "id": 117,
+      "text": "Pain in the gym prevents pain in life. Embrace the burn.",
+      "category": "strength"
+    },
+    {
+      "id": 118,
+      "text": "Money flows to those who understand its rules. Study the game.",
+      "category": "money"
+    },
+    {
+      "id": 119,
+      "text": "Self-discipline is the master key to riches. Use it wisely.",
+      "category": "discipline"
+    },
+    {
+      "id": 120,
+      "text": "Success is a mindset manifested through action. Think and do.",
+      "category": "success"
+    },
+    {
+      "id": 121,
+      "text": "Mental warfare precedes physical victory. Win in your mind first.",
+      "category": "mindset"
+    },
+    {
+      "id": 122,
+      "text": "The weights wait for no one. Show up or shut up.",
+      "category": "strength"
+    },
+    {
+      "id": 123,
+      "text": "Build income streams like you build muscle. Consistently and progressively.",
+      "category": "money"
+    },
+    {
+      "id": 124,
+      "text": "Champions are made in the moments when nobody's watching.",
+      "category": "discipline"
+    },
+    {
+      "id": 125,
+      "text": "Success is rented daily with sweat, sacrifice, and determination.",
+      "category": "success"
+    },
+    {
+      "id": 126,
+      "text": "Upgrade your mindset, upgrade your life. Software determines output.",
+      "category": "mindset"
+    },
+    {
+      "id": 127,
+      "text": "Physical weakness breeds mental weakness. Get strong everywhere.",
+      "category": "strength"
+    },
+    {
+      "id": 128,
+      "text": "Money is energy. Direct it wisely or it dissipates.",
+      "category": "money"
+    },
+    {
+      "id": 129,
+      "text": "Discipline today, freedom tomorrow. The equation never changes.",
+      "category": "discipline"
+    },
+    {
+      "id": 130,
+      "text": "Success is a series of small wins. Stack them daily.",
+      "category": "success"
+    },
+    {
+      "id": 131,
+      "text": "Feed your mind success stories. Starve it of excuses.",
+      "category": "mindset"
+    },
+    {
+      "id": 132,
+      "text": "Your body is your armor. Forge it in the fire of training.",
+      "category": "strength"
+    },
+    {
+      "id": 133,
+      "text": "Wealth starts with wealthy thinking. Poverty starts with poor thinking.",
+      "category": "money"
+    },
+    {
+      "id": 134,
+      "text": "The undisciplined life is not worth living. Choose order over chaos.",
+      "category": "discipline"
+    },
+    {
+      "id": 135,
+      "text": "Success is inevitable for those who refuse to quit.",
+      "category": "success"
+    },
+    {
+      "id": 136,
+      "text": "Conquer your mind, conquer your world. It starts internally.",
+      "category": "mindset"
+    },
+    {
+      "id": 137,
+      "text": "Strength is earned one rep at a time. There are no shortcuts.",
+      "category": "strength"
+    },
+    {
+      "id": 138,
+      "text": "Money respects those who respect it. Handle with intelligence.",
+      "category": "money"
+    },
+    {
+      "id": 139,
+      "text": "Discipline is doing the right thing even when nobody's watching.",
+      "category": "discipline"
+    },
+    {
+      "id": 140,
+      "text": "Success is a habit, not a destination. Practice it daily.",
+      "category": "success"
+    },
+    {
+      "id": 141,
+      "text": "Mindset separates the elite from the average. Which are you?",
+      "category": "mindset"
+    },
+    {
+      "id": 142,
+      "text": "Train insane or remain the same. The choice is yours.",
+      "category": "strength"
+    },
+    {
+      "id": 143,
+      "text": "Financial freedom requires financial sacrifice. Pay the price.",
+      "category": "money"
+    },
+    {
+      "id": 144,
+      "text": "Discipline is the highest form of self-respect. Show yourself love.",
+      "category": "discipline"
+    },
+    {
+      "id": 145,
+      "text": "Success is what happens when preparation meets opportunity.",
+      "category": "success"
+    },
+    {
+      "id": 146,
+      "text": "Guard your mind like a fortress. Only let excellence enter.",
+      "category": "mindset"
+    },
+    {
+      "id": 147,
+      "text": "The iron doesn't judge. It only reveals who you really are.",
+      "category": "strength"
+    },
+    {
+      "id": 148,
+      "text": "Create value, capture wealth. The formula hasn't changed.",
+      "category": "money"
+    },
+    {
+      "id": 149,
+      "text": "Without discipline, talent is wasted. With it, average becomes extraordinary.",
+      "category": "discipline"
+    },
+    {
+      "id": 150,
+      "text": "Success is a decision followed by relentless execution.",
+      "category": "success"
+    },
+    {
+      "id": 151,
+      "text": "Your mindset in the morning determines your success in the evening.",
+      "category": "mindset"
+    },
+    {
+      "id": 152,
+      "text": "Build a body that commands respect. Strength speaks volumes.",
+      "category": "strength"
+    },
+    {
+      "id": 153,
+      "text": "Money multiplies for those who understand compound growth. Learn the math.",
+      "category": "money"
+    },
+    {
+      "id": 154,
+      "text": "Discipline bridges the gap between dreams and reality.",
+      "category": "discipline"
+    },
+    {
+      "id": 155,
+      "text": "Success is not luck. It's the result of deliberate practice.",
+      "category": "success"
+    },
+    {
+      "id": 156,
+      "text": "Mental strength is built through mental resistance. Challenge yourself.",
+      "category": "mindset"
+    },
+    {
+      "id": 157,
+      "text": "Every workout is an investment in your future self. Compound the gains.",
+      "category": "strength"
+    },
+    {
+      "id": 158,
+      "text": "Passive income is not passive at first. Build the machine.",
+      "category": "money"
+    },
+    {
+      "id": 159,
+      "text": "The disciplined path is the only path to lasting success.",
+      "category": "discipline"
+    },
+    {
+      "id": 160,
+      "text": "Success requires you to be unreasonable with your standards.",
+      "category": "success"
+    },
+    {
+      "id": 161,
+      "text": "Mindset is the software. Update it regularly for peak performance.",
+      "category": "mindset"
+    },
+    {
+      "id": 162,
+      "text": "Strength training trains more than muscles. It builds unbreakable will.",
+      "category": "strength"
+    },
+    {
+      "id": 163,
+      "text": "Money is a game. Learn the rules or lose by default.",
+      "category": "money"
+    },
+    {
+      "id": 164,
+      "text": "Discipline is freedom in disguise. Embrace the structure.",
+      "category": "discipline"
+    },
+    {
+      "id": 165,
+      "text": "Success happens when you do what others won't.",
+      "category": "success"
+    },
+    {
+      "id": 166,
+      "text": "A strong mind in a weak body is half the equation. Complete yourself.",
+      "category": "mindset"
+    },
+    {
+      "id": 167,
+      "text": "The gym is where excuses go to die. Kill them daily.",
+      "category": "strength"
+    },
+    {
+      "id": 168,
+      "text": "Wealth is created in the mind before the bank. Think abundantly.",
+      "category": "money"
+    },
+    {
+      "id": 169,
+      "text": "Disciplined actions create extraordinary results. Be consistent.",
+      "category": "discipline"
+    },
+    {
+      "id": 170,
+      "text": "Success is a system, not a single event. Build yours.",
+      "category": "success"
+    },
+    {
+      "id": 171,
+      "text": "Your mindset determines your grindset. Think like a champion.",
+      "category": "mindset"
+    },
+    {
+      "id": 172,
+      "text": "Muscles and money follow the same principle: consistent compound growth.",
+      "category": "strength"
+    },
+    {
+      "id": 173,
+      "text": "Financial intelligence beats financial inheritance. Educate yourself.",
+      "category": "money"
+    },
+    {
+      "id": 174,
+      "text": "Discipline is the price of greatness. Pay it gladly.",
+      "category": "discipline"
+    },
+    {
+      "id": 175,
+      "text": "Success is an inside job. Work on yourself first.",
+      "category": "success"
+    },
+    {
+      "id": 176,
+      "text": "Weak thoughts create weak men. Think strength into existence.",
+      "category": "mindset"
+    },
+    {
+      "id": 177,
+      "text": "The weight you lift today builds the man you become tomorrow.",
+      "category": "strength"
+    },
+    {
+      "id": 178,
+      "text": "Money flows to value creators, not value extractors. Build something.",
+      "category": "money"
+    },
+    {
+      "id": 179,
+      "text": "Discipline separates the pros from the amateurs. Go pro.",
+      "category": "discipline"
+    },
+    {
+      "id": 180,
+      "text": "Success is earned through daily deposits of effort.",
+      "category": "success"
+    },
+    {
+      "id": 181,
+      "text": "Master your mind, master your destiny. It's that simple.",
+      "category": "mindset"
+    },
+    {
+      "id": 182,
+      "text": "Physical strength is mental strength made visible. Display your power.",
+      "category": "strength"
+    },
+    {
+      "id": 183,
+      "text": "Invest in yourself. The ROI is always worth it.",
+      "category": "money"
+    },
+    {
+      "id": 184,
+      "text": "Discipline turns dreams into plans and plans into reality.",
+      "category": "discipline"
+    },
+    {
+      "id": 185,
+      "text": "Success is a lifestyle, not a lottery. Live it daily.",
+      "category": "success"
+    },
+    {
+      "id": 186,
+      "text": "Your mind is your most powerful tool. Sharpen it constantly.",
+      "category": "mindset"
+    },
+    {
+      "id": 187,
+      "text": "The strongest muscle is your will. Train it harder than your body.",
+      "category": "strength"
+    },
+    {
+      "id": 188,
+      "text": "Money is attracted to discipline, repelled by chaos. Choose wisely.",
+      "category": "money"
+    },
+    {
+      "id": 189,
+      "text": "The disciplined few rule the undisciplined many. Join the few.",
+      "category": "discipline"
+    },
+    {
+      "id": 190,
+      "text": "Success is not about resources, it's about resourcefulness.",
+      "category": "success"
+    },
+    {
+      "id": 191,
+      "text": "Mindset is your foundation. Build it earthquake-proof.",
+      "category": "mindset"
+    },
+    {
+      "id": 192,
+      "text": "Strength is a decision before it's a physical reality. Decide to be strong.",
+      "category": "strength"
+    },
+    {
+      "id": 193,
+      "text": "Financial success follows financial education. Never stop learning.",
+      "category": "money"
+    },
+    {
+      "id": 194,
+      "text": "Discipline today creates the freedom you want tomorrow.",
+      "category": "discipline"
+    },
+    {
+      "id": 195,
+      "text": "Success is the progressive realization of predetermined goals.",
+      "category": "success"
+    },
+    {
+      "id": 196,
+      "text": "Your mindset is either your greatest asset or your biggest liability.",
+      "category": "mindset"
+    },
+    {
+      "id": 197,
+      "text": "Train hard, live easy. Train easy, live hard. Choose your struggle.",
+      "category": "strength"
+    },
+    {
+      "id": 198,
+      "text": "Money is not the goal. Freedom is. Money is just the vehicle.",
+      "category": "money"
+    },
+    {
+      "id": 199,
+      "text": "Discipline is the mother of all good habits. Nurture it.",
+      "category": "discipline"
+    },
+    {
+      "id": 200,
+      "text": "Success is not final. Keep pushing, keep growing, keep winning.",
+      "category": "success"
+    }
+  ]
+}

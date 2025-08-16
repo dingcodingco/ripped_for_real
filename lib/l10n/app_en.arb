@@ -1,0 +1,75 @@
+{
+  "@@locale": "en",
+  "appTitle": "RIPPED FOR REAL",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  
+  "home": "Home",
+  "saved": "Saved",
+  "savedQuotes": "SAVED QUOTES",
+  
+  "getTodaysQuote": "GET TODAY'S QUOTE",
+  "nextQuote": "NEXT QUOTE",
+  
+  "noSavedQuotes": "No saved quotes yet",
+  "startSaving": "Start saving your favorite motivation",
+  
+  "holdUp": "Hold Up",
+  "loadingMotivation": "Loading your motivation fuel. Try again in a moment.\n\nFor now, here's a bonus quote without ads.",
+  "getFreeQuote": "Get Free Quote",
+  "wait": "Wait",
+  "gotIt": "Got It",
+  
+  "shareText": "Stay hard! 💪 #RippedForReal",
+  "failedToShare": "Failed to share quote",
+  
+  "notificationTitle": "Time to get after it!",
+  "notificationBody": "Your daily dose of motivation awaits. Stay hard.",
+  
+  "trackingUsageDescription": "This app uses tracking to provide personalized ads and improve your experience.",
+  "photoLibraryAddUsageDescription": "This app saves motivational quote images to your photo library when you share them.",
+  "photoLibraryUsageDescription": "This app needs access to save motivational quotes as images.",
+  
+  "categoryMindset": "MINDSET",
+  "categoryMoney": "MONEY",
+  "categoryStrength": "STRENGTH",
+  "categoryDiscipline": "DISCIPLINE",
+  "categorySuccess": "SUCCESS",
+  
+  "streakDays": "{count, plural, =0{Start your streak!} =1{1 day streak 🔥} other{{count} days streak 🔥}}",
+  "@streakDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "level": "Level {level}",
+  "@level": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "xpPoints": "{points} XP",
+  "@xpPoints": {
+    "placeholders": {
+      "points": {
+        "type": "int"
+      }
+    }
+  },
+  
+  "statistics": "Statistics",
+  "totalQuotesRead": "Total Quotes Read",
+  "favoriteCategory": "Favorite Category",
+  "currentStreak": "Current Streak",
+  "longestStreak": "Longest Streak",
+  
+  "filterByCategory": "Filter by Category",
+  "allCategories": "All Categories"
+}

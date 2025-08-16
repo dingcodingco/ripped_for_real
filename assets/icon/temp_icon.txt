@@ -1,0 +1,6 @@
+App Icon Requirements:
+- Size: 1024x1024 pixels
+- Format: PNG
+- No transparency for iOS
+- Simple, bold design with "RFR" or muscle icon
+- Black background with white or red accent
